@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunith-grey1.github.io/panel-zhcn-hth-com/sitemap.xml
